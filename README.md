@@ -1,4 +1,4 @@
-### 🌱 I’m currently learning CS 👨‍💻
+### 🌱 Currently learning Fullstack Web development at Lambda. 👨‍💻
 
 <!--
 **HamidAzizy/HamidAzizy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
